@@ -1,0 +1,1 @@
+Result after cleaning or transformation before become processed data
