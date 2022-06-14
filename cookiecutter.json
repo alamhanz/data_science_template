@@ -1,10 +1,9 @@
 {
-    "full_name": "Audrey Roy Greenfeld",
-    "email": "audreyr@gmail.com",
-    "project_name": "Complexity",
-    "repo_name": "complexity",
-    "project_short_description": "Refreshingly simple static site generator.",
+    "full_name": "Alamsyah Hanza",
+    "email": "alamhanz@gmail.com",
+    "project_name": "Great_Name",
+    "repo_name": "GreatProject",
+    "project_short_description": "Just a basic template for your awesome data project",
     "release_date": "2013-07-10",
-    "year": "2013",
-    "version": "0.1.1"
+    "venv_name":"virtual-environment-name"
 }
