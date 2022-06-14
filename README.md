@@ -13,7 +13,7 @@ pip install -U cookiecutter
 Run the following script to generate the template for the project in your terminal or command prompt.
 
 ```
-cookiecutter git@github.com:alamhanz/data_science_template.git
+cookiecutter https://github.com/alamhanz/data_science_template.git --checkout <tag>
 ```
 
 
