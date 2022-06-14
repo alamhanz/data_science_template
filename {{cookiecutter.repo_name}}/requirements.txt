@@ -1,0 +1,12 @@
+pandas==1.2.4
+pandas-gbq==0.17.4
+flake==3.7.8
+yaml==5.4.1
+matplotlib==3.4.2
+matplotlib-inline==0.1.2
+seaborn==0.11.2
+Keras==2.4.3
+jupyterlab==3.1.10
+scikit-learn==0.24.2
+scipy==1.7.1
+numpy==1.18.5
