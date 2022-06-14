@@ -9,4 +9,4 @@ Keras==2.4.3
 jupyterlab==3.1.10
 scikit-learn==0.24.2
 scipy==1.7.1
-numpy==1.18.5
+numpy==1.21.0
