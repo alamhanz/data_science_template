@@ -21,6 +21,10 @@ virtualenv {{cookiecutter.venv_name}}
 pip install -r requirements.txt
 jupyter lab
 ```
+additional command to add kernel to jupyter
+```
+ipython kernel install --name [env-name] --user
+```
 
 ## Structure
 
