@@ -3,6 +3,9 @@ from sklearn.metrics import roc_auc_score
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+# feature-engine 1.6.0
+
+# population stability index
 
 def eval_features(df_input,col_label='y',col_features_selected=['1','2']):
     """
