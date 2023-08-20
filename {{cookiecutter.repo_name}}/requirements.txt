@@ -1,4 +1,4 @@
-pandas==1.2.4
+polars==0.16.10
 pandas-gbq==0.17.4
 flake==3.7.8
 yaml==5.4.1
